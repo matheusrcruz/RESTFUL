@@ -46,6 +46,8 @@ Resources seria então: Uma entidade ou um objeto.
 RESTful, é a aplicação dos padrões REST.
 
 ## BOAS PRÁTICAS
+![image](https://user-images.githubusercontent.com/31409846/111912552-f2293f80-8a48-11eb-8f3c-2c8b7b542343.png)
+
 
 - Utilizar verbos HTTP para nossas requisições.
 - Utilizar plural ou singular na criação dos endpoints? _NÃO IMPORTA!_ use um padrão!!
