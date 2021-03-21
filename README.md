@@ -60,6 +60,8 @@ RESTful, é a aplicação dos padrões REST.
 - DELETE: Deletar um Resource
 
 ### STATUS DAS RESPOSTAS
+![image](https://user-images.githubusercontent.com/31409846/111912467-7202da00-8a48-11eb-8569-eb2b9dd82804.png)
+
 
 - 1xx: Informação
 - 2xx: Sucesso
